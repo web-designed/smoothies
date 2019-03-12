@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-checkout the [demo] (https://ninja-smoothie-a0e5e.firebaseapp.com/#/)
+checkout the [demo](https://ninja-smoothie-a0e5e.firebaseapp.com/#/)
 
 ## Build Setup
 
