@@ -1,8 +1,8 @@
 {
-  "name": "ninja-smoothies",
+  "name": "smoothies",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "kmianowski <krzysztof@creativeconstruction.de>",
+  "author": "web-designed <info@web-designed.eu>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

@@ -1,4 +1,4 @@
-# ninja-smoothies
+# smoothies
 
 > A Vue.js project
 
